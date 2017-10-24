@@ -1,0 +1,10 @@
+export const purple = '#292477'
+export const gray = '#666666'
+export const white = '#fff'
+export const red = '#db3236'
+export const orange = '#f26f28'
+export const blue = '#8DC63F'
+export const lightPurp = '#7c53c3'
+export const pink = '#b93fb3'
+export const silver = '#DBDBDB';
+export const grayMinShaft = '#292929';
