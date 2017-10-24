@@ -69,7 +69,7 @@ class Quiz extends Component {
                                 }))
                             }
                             style={styles.correctButton}>
-                            <Text style={styles.examButtonText}>Corrent</Text>
+                            <Text style={styles.examButtonText}>Correct</Text>
                         </TouchableOpacity>
 
                         <TouchableOpacity
